@@ -5,5 +5,5 @@ This script is help to check the md5 of the MTB_03 mp3 to see if it is corrupted
 $python3 <file_path>
 eg: $python3 "D:\"
 
-# Pre=requisite
+# Pre-requisite
 Python 3
