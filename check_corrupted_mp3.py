@@ -1,3 +1,6 @@
+#Created on: 23 Oct 2022
+#Script written by ngbk1993@yahoo.com
+
 import os 
 import hashlib
 import sys
